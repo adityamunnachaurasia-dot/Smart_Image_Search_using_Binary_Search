@@ -258,10 +258,4 @@ Check the API base URL in the frontend service configuration and confirm that it
 
 ## 👨‍💻 Author
 
-**Aditya Chaurasia**
-
-GitHub: [Add your GitHub profile URL](https://github.com/)
-
-## 📄 License
-
-Choose a license for your project before distributing it. For example, the MIT License permits reuse subject to its terms. Add a `LICENSE` file if you choose MIT.
+**Aditya Chaurasia**.
